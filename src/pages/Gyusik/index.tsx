@@ -34,6 +34,40 @@ export default function Gyusik() {
                 <SDiv2></SDiv2>
             </SDiv0>
         </STemp>
+    
+    <STemp2>
+        <SBackground2 src={require("~/").default}
+                windowwidth={windowWidth}/>
+                <SPart1>채용공고</SPart1>
+                <SPart2>
+                    <SDom>
+                        <SDomDom1>지원방법</SDomDom1>
+                        <SDomDom2>
+                            <SDomDomDom1>접수기간</SDomDomDom1>
+                            <SDomDomDom2>2022.09.20(화)~2022.10.18(화) 14:00까지</SDomDomDom2>
+                        </SDomDom2>
+                        <SDomDom3>
+                            <SDomDomDom3>접수방법</SDomDomDom3>
+                            <SDomDomDom4>동원그룹 채용사이트(careers.dongwon.com)접속 후 온라인지원</SDomDomDom4>
+                        </SDomDom3>
+                        <SDomDom4>
+                            <SDomDomDom5>결과확인</SDomDomDom5>
+                            <SDomDomDom6>동원그룹 채용사이트(careers.dongwon.com)접속 후 마이페이지에서 확인</SDomDomDom6>
+                        </SDomDom4>
+                        <SDomDom5>지원자격</SDomDom5>
+                        <SDomDom6>
+                            <SDomDomDom7>기졸업자 및 2023년 2월 졸업예정이신분</SDomDomDom7>
+                            <SDomDomDom8>병역면제 혹은 병역을 마친 분, 해외출장에 결격사유가 없는 분</SDomDomDom8>
+                            <SDomDomDom9>최종 합격자 발표 이후 즉시 근무가 가능한 분</SDomDomDom9>
+                            <SDomDomDom10>국가등록장애인 및 국가보훈대상자는 관계법령에 대해 우대</SDomDomDom10>
+                        </SDomDom6>
+                        <SDomDom7>전형별 세부사항</SDomDom7>
+                        <SDomDom8>
+                            
+                        </SDomDom8>
+                    </SDom>
+                </SPart2>
+    </STemp2>
     )
 }
 const STemp = styled.div`
